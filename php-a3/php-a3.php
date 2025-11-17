@@ -14,5 +14,5 @@ else if ($medida == 2){
     echo "$temp ºF são $conv °C";
 }
 else{
-    echo "Sem seleção válida";
+    echo "Sem seleção de unidade de medida válida";
 }
